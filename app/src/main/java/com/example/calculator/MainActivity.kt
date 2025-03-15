@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
     var dotControl : Boolean = true
     var buttonEqualsControl : Boolean = false
-
+ //changes
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
